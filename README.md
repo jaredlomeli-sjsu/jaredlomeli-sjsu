@@ -1,6 +1,6 @@
 # Hi, I'm Jared 👋
 
-Engineering Technology student at SJSU focused on networking and cybersecurity — building hands-on skills through Packet Tracer labs, CompTIA Security+ (in progress), and home-lab tinkering.
+Engineering Technology student at SJSU focused on networking and cybersecurity — CompTIA Security+ certified, building hands-on skills through Packet Tracer labs and home-lab tinkering.
 
 ---
 
@@ -19,9 +19,12 @@ Engineering Technology student at SJSU focused on networking and cybersecurity �
 
 ### 🎯 Currently Working On
 
-- **CompTIA Security+ (SY0-701)** — target exam August 2026
 - **Cisco Packet Tracer labs** aligned with Security+ domains (VLANs, ACLs, AAA/RADIUS, IDS, IPSec VPN)
 - Active member of **SJSU Network Engineering Technology Society (NETS)**
+
+### 🏆 Certifications
+
+- **CompTIA Security+ (SY0-701)** — earned July 2026
 
 ### 📚 Learning Next
 
@@ -29,7 +32,7 @@ Engineering Technology student at SJSU focused on networking and cybersecurity �
 
 ### 🎓 Education
 
-**San José State University** — B.S. Engineering Technology, Computer Systems Network Management *(Expected June 2029)*
+**San José State University** — B.S. Engineering Technology, Computer Systems Network Management _(Expected June 2029)_
 
 ---
 
